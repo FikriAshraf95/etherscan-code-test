@@ -10,7 +10,7 @@ To run this program:-
 
 All the information are saved in mysql database at:-
 http://159.223.74.140/phpmyadmin/index.php?route=/database/structure&server=1&db=etherscan
-(Credentials to db can be found in etherscan-test.zip README.txt)
+(Credentials for database can be found in etherscan-test.zip README.txt)
 
 Logs path:-
 etherscan-test\etherscan-test\bin\Debug\net6.0\logs
