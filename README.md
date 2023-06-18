@@ -8,9 +8,9 @@ To run this program:-
 4. Go to folder 'net6.0'
 5. Find and run the program 'etherscan-test.exe'
 
-All the information are saved in mysql database at:-
-http://159.223.74.140/phpmyadmin/index.php?route=/database/structure&server=1&db=etherscan
-(Credentials for database can be found in etherscan-test.zip README.txt)
+All the information are saved in mysql database at:-<br />
+http://159.223.74.140/phpmyadmin/index.php?route=/database/structure&server=1&db=etherscan<br />
+(Credentials for database can be found in etherscan-test.zip README.txt)<br />
 
 Logs path:-
 etherscan-test\etherscan-test\bin\Debug\net6.0\logs
